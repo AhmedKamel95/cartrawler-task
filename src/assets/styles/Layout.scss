@@ -1,0 +1,27 @@
+$header-height: 64px;
+$footer-height: 55px;
+
+header {
+    height: $header-height;
+}
+
+.site-container {
+    background-color: #c7c7cd;
+    padding: 5vh 0;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: #efefef;
+    box-sizing: border-box;
+}
+
+.footer .MuiTypography-body1 {
+    line-height: $footer-height;
+}
+
+@media only screen {
+    .site-container {
+        min-height: calc(100vh - ($header-height + $footer-height));
+    }
+}

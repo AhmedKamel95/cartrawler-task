@@ -1,0 +1,28 @@
+.card_container {
+    padding: 12px;
+}
+
+.details_container {
+    gap: 20px;
+}
+
+.vehicle_name {
+    font-size: 1.4em !important;
+    font-weight: 600 !important;
+    display: inline-block;
+}
+
+.similar {
+    font-size: 0.8em !important;
+    text-decoration: underline;
+    display: inline-block;
+}
+
+.vehicle_feature {
+    display: inline-flex;
+    gap: 10px;
+}
+
+.card_actions_container {
+    justify-content: flex-end;
+}
