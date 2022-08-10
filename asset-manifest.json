@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/cartrawler-task/static/css/main.d68a245c.css",
+    "main.js": "/cartrawler-task/static/js/main.bef79536.js",
+    "static/css/594.7e82f39d.chunk.css": "/cartrawler-task/static/css/594.7e82f39d.chunk.css",
+    "static/js/594.565848d0.chunk.js": "/cartrawler-task/static/js/594.565848d0.chunk.js",
+    "static/css/359.b8132a5b.chunk.css": "/cartrawler-task/static/css/359.b8132a5b.chunk.css",
+    "static/js/359.83013cf3.chunk.js": "/cartrawler-task/static/js/359.83013cf3.chunk.js",
+    "static/css/715.e2e007bd.chunk.css": "/cartrawler-task/static/css/715.e2e007bd.chunk.css",
+    "static/js/715.e66277b3.chunk.js": "/cartrawler-task/static/js/715.e66277b3.chunk.js",
+    "static/js/692.1ff4c56b.chunk.js": "/cartrawler-task/static/js/692.1ff4c56b.chunk.js",
+    "static/js/21.5c6f5862.chunk.js": "/cartrawler-task/static/js/21.5c6f5862.chunk.js",
+    "static/js/190.f316fef1.chunk.js": "/cartrawler-task/static/js/190.f316fef1.chunk.js",
+    "static/media/alamo.svg": "/cartrawler-task/static/media/alamo.707aa19fe64472a34d1a7f2e3eeb0154.svg",
+    "static/media/partner.svg": "/cartrawler-task/static/media/partner.920a9b1a84c00661376009075f04e4eb.svg",
+    "static/media/hertz.svg": "/cartrawler-task/static/media/hertz.50071a8954b2b7cf1e35cea2498a2efd.svg",
+    "static/media/fuel.svg": "/cartrawler-task/static/media/fuel.2c84b766c682b3caf7c29ad05bdac8f9.svg",
+    "static/media/avis.svg": "/cartrawler-task/static/media/avis.1540dbaab122d7c8e0e23e92ab7776b0.svg",
+    "static/media/door.svg": "/cartrawler-task/static/media/door.9cd3066bfcdef11180a8c0ebb83e2d7e.svg",
+    "static/media/bag.svg": "/cartrawler-task/static/media/bag.216a4aca2b549fccae28004b666a79a9.svg",
+    "static/media/transmission.svg": "/cartrawler-task/static/media/transmission.62d74d66a834e8ac1ba32ef2a64a80b8.svg",
+    "static/media/snowflake.svg": "/cartrawler-task/static/media/snowflake.8bd3bbe22b1c99b2026d35cb04e3a964.svg",
+    "index.html": "/cartrawler-task/index.html",
+    "static/media/person.svg": "/cartrawler-task/static/media/person.ee81043ae553fc4b5a11b15e36b7ddc3.svg",
+    "main.d68a245c.css.map": "/cartrawler-task/static/css/main.d68a245c.css.map",
+    "main.bef79536.js.map": "/cartrawler-task/static/js/main.bef79536.js.map",
+    "594.7e82f39d.chunk.css.map": "/cartrawler-task/static/css/594.7e82f39d.chunk.css.map",
+    "594.565848d0.chunk.js.map": "/cartrawler-task/static/js/594.565848d0.chunk.js.map",
+    "359.b8132a5b.chunk.css.map": "/cartrawler-task/static/css/359.b8132a5b.chunk.css.map",
+    "359.83013cf3.chunk.js.map": "/cartrawler-task/static/js/359.83013cf3.chunk.js.map",
+    "715.e2e007bd.chunk.css.map": "/cartrawler-task/static/css/715.e2e007bd.chunk.css.map",
+    "715.e66277b3.chunk.js.map": "/cartrawler-task/static/js/715.e66277b3.chunk.js.map",
+    "692.1ff4c56b.chunk.js.map": "/cartrawler-task/static/js/692.1ff4c56b.chunk.js.map",
+    "21.5c6f5862.chunk.js.map": "/cartrawler-task/static/js/21.5c6f5862.chunk.js.map",
+    "190.f316fef1.chunk.js.map": "/cartrawler-task/static/js/190.f316fef1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68a245c.css",
+    "static/js/main.bef79536.js"
+  ]
+}

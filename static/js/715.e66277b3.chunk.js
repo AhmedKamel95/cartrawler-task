@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcartrawler_app=self.webpackChunkcartrawler_app||[]).push([[715],{4231:function(a,e,r){r.r(e);var t=r(6871),s=r(3190),c=r(184);e.default=function(){var a=(0,t.TH)().state;return(0,c.jsx)(s.Z,{vehicleDetails:a,showActions:!1})}}}]);
+//# sourceMappingURL=715.e66277b3.chunk.js.map
